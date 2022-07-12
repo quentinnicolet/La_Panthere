@@ -12,7 +12,7 @@ button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
-footer a, h2 .mg-md .text-center .tc-white{
+footer a, h2 .mg-md .text-center .tc-white, footer li{
     color: #FFF !important;
 }
 
