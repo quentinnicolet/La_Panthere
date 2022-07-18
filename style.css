@@ -24,7 +24,7 @@ button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
-.col-sm-4, .col-sm-4 ul li a, .tc-white, .row .tc-white{
+.col-sm-4, .col-sm-4 ul li a, .tc-white, .row .tc-white, .social .fa .fa-instagram .icon-md{
     color: #FFF !important;
 }
 
